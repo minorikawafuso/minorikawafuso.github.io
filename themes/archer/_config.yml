@@ -62,16 +62,16 @@ profile_links:
 
 # ========== Site ========== #
 # title of the site (good for SEO)
-SEO_title: fuso's Blog
+SEO_title: 苗苗我真的好想你好想你好想你
 # keywords for site (good for SEO)
 SEO_keywords:
   - hexo
   - 'hexo-theme'
   - 'hexo-blog'
 # main title shown in header image
-main_title: fuso's Blog.
+main_title: 叶苗我爱你
 # subtitle
-subtitle: The right man in the wrong place, can make all the difference in the world 
+subtitle: 苗苗我受不了了没有你的日子我一直在幻想和你一起的时间，幻想和回想，都要来了，我很想和你在一起
 # site haeder image
 site_header_image: '/intro/index-bg.jpg'
 # post haeder image
